@@ -1,0 +1,43 @@
+
+# Gradle
+.gradle/
+build/
+out/
+
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+*.class
+*.log
+*.ctxt
+
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+run/
+plugins/
+logs/
+world/
+world_nether/
+world_the_end/
+
+*.cache
+*.tmp
